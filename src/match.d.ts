@@ -10,7 +10,7 @@ type User = {
   school: string
   grade: string
   class: string
-  test： string
+  test2： string
 }
 type Team = {
   name: string
