@@ -26,7 +26,7 @@
       {
         "iconPath": "static/tabbar/home.png",
         "selectedIconPath": "static/tabbar/homeHL.png",
-        "pagePath": "pages/index/index",
+        "pagePath": "pages/home/home",
         "text": "首页"
       },
       {
@@ -67,6 +67,14 @@
     },
     {
       "path": "pages/home/home",
+      "type": "page"
+    },
+    {
+      "path": "pages/championshipInfo/component/projectCard",
+      "type": "page"
+    },
+    {
+      "path": "pages/home/component/matchCard",
       "type": "page"
     }
   ],
